@@ -9,11 +9,11 @@
 
 - <img src="https://raw.githubusercontent.com/daythekid/WhatsWhere/master/android-chrome-192x192.png" width="20" height="20"> <a href="https://github.com/daythekid/WhatsWhere"> WhatsWhere </a>: A crowdsourced grocery stock tracking webapp to fight food shortages
 
-- 📰 <a href="https://github.com/daythekid/MicroNews">MicroNews</a>: News app for Android and IOS with a web-scraping backend
+- 📰 <a href="https://github.com/daythekid/MicroNews">MicroNews</a>: An open-source news app for Android and IOS with a web-scraping backend
 
 - 😷 <a href="https://github.com/daythekid/CoTracing">CoTracing</a>: COVID-19 contact tracing using Distributed Computing
 
-- 💲 <a href="https://github.com/daythekid/MyBlockchain">MyBlockchain</a>: A local blockchain made from scratch in C++
+- 💲 <a href="https://github.com/STR-Coding-Club/RobCoin">RobCoin</a>: A decentralized cryptocurrency built from scratch with STR Coding Club
 
 
 ### Connect with me!
