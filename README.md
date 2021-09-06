@@ -1,9 +1,9 @@
 <h1 align="center">Hi there I'm Dhyey! 👋</h1>
 
-<h3 align="center">I'm a high school senior in the IB Program and Part-Time developer!</h3>
+<h3 align="center">I'm a Computer Science student studying at the University of Waterloo!</h3>
 
 
-### I'm passionate about using computers and technology to help others out!
+### I am always looking to learn new things and (hopefully) overcome a tough challenge or two in the process!
 
 ### Check out some of my past projects!
 
