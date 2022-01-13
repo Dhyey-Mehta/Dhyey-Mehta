@@ -9,7 +9,7 @@
 
 - 📍 <a href="https://github.com/Dhyey-Mehta/uw-tunnel">Warm Warriors</a>: A full-stack web-app developed to find internal paths between buildings on the uWaterloo campus
 
-- 📈 <a href="github.com/Dhyey-Mehta/voliTrader">VoliTrader</a>: A volatility-based trading model that prices European-style options using market sentiment and Black-Scholes
+- 📈 <a href="https://github.com/Dhyey-Mehta/voliTrader">VoliTrader</a>: A volatility-based trading model that prices European-style options using market sentiment and Black-Scholes
 
 - 📰 <a href="https://github.com/daythekid/MicroNews">MicroNews</a>: An open-source news app for Android and IOS with a web-scraping backend
 
