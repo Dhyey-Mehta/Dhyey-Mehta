@@ -11,8 +11,6 @@
 
 - 📈 <a href="https://github.com/Dhyey-Mehta/voliTrader">VoliTrader</a>: A volatility-based trading model that prices European-style options using market sentiment and Black-Scholes
 
-- 📰 <a href="https://github.com/daythekid/MicroNews">MicroNews</a>: An open-source news app for Android and IOS with a web-scraping backend
-
 - 😷 <a href="https://github.com/daythekid/CoTracing">CoTracing</a>: COVID-19 contact tracing using Distributed Computing
 
 - 💲 <a href="https://github.com/STR-Coding-Club/RobCoin">RobCoin</a>: A decentralized cryptocurrency built from scratch with STR Coding Club
